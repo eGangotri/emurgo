@@ -1,0 +1,26 @@
+{
+  "name": "emurgo",
+  "version": "1.0.0",
+  "description": "1. Permutations\r Input: a string of unknown length that can contain only three characters: 0, 1, or *. For example: \"101*011*1”\r Output: an array of strings where each string is a permutation of the input string with the * character replaced by a 0 or a 1. For example: for\r input \"*1\" the result array is [\"01\", \"11\"]\r Tasks: Implement the function/program that will give correct output for all possible inputs within given restrictions. Write a documenting comment\r explaining the algorithmic complexity of the program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "permutation": "ts-node permutation.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eGangotri/emurgo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eGangotri/emurgo/issues"
+  },
+  "homepage": "https://github.com/eGangotri/emurgo#readme",
+  "dependencies": {
+    "@types/node": "^16.11.12",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2",
+    "yarn": "^1.22.17"
+  }
+}
