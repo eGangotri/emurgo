@@ -6,3 +6,6 @@ Output: an array of strings where each string is a permutation of the input stri
 input "*1" the result array is ["01", "11"]
 Tasks: Implement the function/program that will give correct output for all possible inputs within given restrictions. Write a documenting comment
 explaining the algorithmic complexity of the program.
+
+# Algorithmi Complexity
+## O(2^n)
